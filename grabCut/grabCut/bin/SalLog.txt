@@ -1,0 +1,2 @@
+[12/07/30 22:05:05:293] Get saliency maps for images `C:\Users\renxiaom\Downloads\ImgSaliency\ImgSaliency\bin\hello.jpg' and save results to `C:\Users\renxiaom\Downloads\ImgSaliency\ImgSaliency\bin\'
+[12/07/30 22:05:05:560] Get saliency finished                                        
